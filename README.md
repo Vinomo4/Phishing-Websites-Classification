@@ -61,7 +61,7 @@ To install the requested libraries, the following command should be executed in 
 The files contained on this repository are:
 
 * [`R Code`](./Code.Rmd) with all the hyperparameters tunning and CV for each one of the used techniques.
-* [`Kernel R file`](./Kernels.R) containg all kernel functions used by the *kernlab* library.
+* [`Kernel file`](./Kernels.R) containg all kernel functions used by the *kernlab* library.
 * The [`Dataset`](./Data.csv) used in this project.
 * An extensive [`report`](./Report.pdf) about the development of the kernels, they perfomance and the conclusions of this project. 
 
