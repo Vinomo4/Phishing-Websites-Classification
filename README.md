@@ -6,7 +6,7 @@ The aim of this project is to develop ad-hoc kernels that take into account the 
 The number of kernels designed throughout the project is extensive and very diverse, ranging from addaptations of traditional kernels, like *RBF*, to more complex and subject-oriented kernel formulas.
 
 <p align="center">
-  <img src='README Images/tumours.png'/ width = 500>
+  <img src='README Images/warning.png'/ width = 500>
 </p>
 
 ## Used techniques
