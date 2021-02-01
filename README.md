@@ -35,7 +35,7 @@ And 9 additional methods based on the Gower Legendre similarities:
 * GL 14
 
 <p align="center">
-  <img src='README Images/variables.PNG'/>
+  <img src='README Images/methods.PNG'/>
 </p>
 
 ## Installation
