@@ -72,7 +72,7 @@ The files contained in this repository are:
 This project was developed by:
 | [![Vinomo4](https://avatars2.githubusercontent.com/u/49389601?s=60&v=4)](https://github.com/Vinomo4) | [![CarlOwOs](https://avatars3.githubusercontent.com/u/49389491?s=60&u=b239b67c3f064bf2dae05e08ae9965b7c7e34c36&v=4)](https://github.com/CarlOwOs) | [![Marcfuon](https://avatars3.githubusercontent.com/u/49389563?s=88&u=95fb18db55ceae0b49215950980506783481fbbe&v=4)](https://github.com/marcfuon) |
 | --- | --- | --- |
-| [Victor Novelle Moriano](https://github.com/Vinomo4) | [Carlos Hurtado Comin](https://github.com/CarlOwOs) | [Marc Fuentes Oncins](https://github.com/marcfuon) |
+| [Víctor Novelle Moriano](https://github.com/Vinomo4) | [Carlos Hurtado Comin](https://github.com/CarlOwOs) | [Marc Fuentes Oncins](https://github.com/marcfuon) |
 
 
 Students of Data Science and Engineering at [UPC](https://www.upc.edu/ca).
