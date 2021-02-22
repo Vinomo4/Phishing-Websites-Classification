@@ -1,4 +1,4 @@
-# Phishing-Websites-Classification
+# Phishing Websites Classification
 >  Kernel methods used to distinguish between phishing and secure websites.
 
 The aim of this project is to develop ad-hoc kernels that take into account the categorical nature of the variables,and that exploit the nuances and relationships they present, that ease recognizing if a website is secure or malignant.
