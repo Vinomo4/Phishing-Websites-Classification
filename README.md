@@ -9,7 +9,7 @@ The number of kernels designed throughout the project is extensive and very dive
   <img src='README Images/warning.png'/ width = 500>
 </p>
 
-## Used techniques
+## Techniques used
 
 To solve the classification problem, several kernel functions have been used, as well as non-kernel methods in order to compare performances:
 
