@@ -58,7 +58,7 @@ To install the requested libraries, the following command should be executed in 
 
 ## Architecture
 
-The files contained on this repository are:
+The files contained in this repository are:
 
 * [`R Code`](./Code.Rmd) with all the hyperparameters tunning and CV for each one of the used techniques.
 * [`Kernel file`](./Kernels.R) containg all kernel functions used by the *kernlab* library.
